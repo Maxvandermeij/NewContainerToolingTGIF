@@ -7,10 +7,10 @@
 #
 theme : template
 
-theme-background : [ "linear-gradient(180deg, #3C2B2B 65%, #F94E5E 35%)" ]
-theme-headline   : [ "Raleway", "#5289F7", "none" ]
-theme-byline     : [ "Raleway", "#111111", "none" ]
-theme-text       : [ "Ubuntu", "#1C1C1C", "none" ]
+theme-background : [ "linear-gradient(180deg, #342C2C 75%, #F94E5E 25%)" ]
+theme-headline   : [ "Raleway", "white", "none" ]
+theme-byline     : [ "Raleway", "white", "none" ]
+theme-text       : [ "Ubuntu", "white", "none" ]
 theme-links      : [ "#5289F7", "#5254F7" ]
 theme-code       : [ "Source Code Pro" ]
 theme-controls   : [ "#484848" ]
