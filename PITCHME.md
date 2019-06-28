@@ -2,12 +2,14 @@
 ## New container tooling
 
 @snap[south span-100]
-###### By Max van der Meij
+######### By Max van der Meij
 @snapend 
 
 ---
-@title[why?]
-#### Why change?
+@title[Why?]
+@snap[north-west span-50]
+#### Why ?
+@snapend
 
 ![](https://media1.tenor.com/images/de6e3c7af59a12ccb2ac4e5cd98649ec/tenor.gif?itemid=11422178)
 
@@ -22,12 +24,19 @@
 ![](assets/img/security.jpg)
 @snapend
 
+---
+@title[Security]
+
 @snap[south span-100 h6-text-white]
 Security and seperation of duty
 Seperate tools for specific purposes
 @snapend
 
+
 ---
+
+
+
 @title[New tooling]
 
 @snap[north-west h4-white]
