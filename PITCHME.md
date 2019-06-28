@@ -2,12 +2,12 @@
 ## New container tooling
 
 @snap[south span-100]
-######### By Max van der Meij
+@size[14px](By Max van der Meij)
 @snapend 
 
 ---
 @title[Why?]
-@snap[north-west span-50]
+@snap[west span-50]
 #### Why ?
 @snapend
 
