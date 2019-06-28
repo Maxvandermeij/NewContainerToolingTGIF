@@ -6,7 +6,7 @@
 
 ![](assets/img/presentation.png)
 
----?color=linear-gradient(180deg, #F94E5E 75%, black 25%)
+---?color=linear-gradient(180deg, black 75%, black 25%)
 @title[Customize Slide Layout]
 
 @snap[west span-50]
@@ -21,7 +21,7 @@
 Snap Layouts let you create custom slide designs directly within your markdown.
 @snapend
 
----?color=linear-gradient(90deg, #E27924 65%, white 35%)
+---?color=linear-gradient(90deg, #F94E5E 65%, white 35%)
 @title[Add A Little Imagination]
 
 @snap[north-west h4-white]
