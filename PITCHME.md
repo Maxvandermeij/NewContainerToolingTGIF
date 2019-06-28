@@ -1,32 +1,34 @@
+@title[Goodbye docker]
+## New container tooling
 
-# New container tooling
 
 ---
+@title[why?]
+#### Why change?
 
-## Add Some Slide Candy
+![](https://media1.tenor.com/images/de6e3c7af59a12ccb2ac4e5cd98649ec/tenor.gif?itemid=11422178)
 
-![](assets/img/presentation.png)
-
----?color=linear-gradient(180deg, black 75%, black 25%)
-@title[Customize Slide Layout]
+---
+@title[Reasons]
 
 @snap[west span-50]
-## Customize the Layout
+## Because
 @snapend
 
 @snap[east span-50]
-![](assets/img/presentation.png)
+![](assets/img/security.jpg)
 @snapend
 
 @snap[south span-100 text-white]
-Snap Layouts let you create custom slide designs directly within your markdown.
+Security and seperation of duty
+Seperate tools for specific purposes
 @snapend
 
----?color=linear-gradient(90deg, #F94E5E 65%, white 35%)
-@title[Add A Little Imagination]
+---
+@title[New tooling]
 
 @snap[north-west h4-white]
-#### And start presenting...
+#### New tooling...
 @snapend
 
 @snap[west span-55]
