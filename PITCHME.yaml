@@ -7,7 +7,7 @@
 #
 theme : template
 
-theme-background : [ "linear-gradient(to top, #F94E5E, black)" ]
+theme-background : [ "linear-gradient(to top, #F94E5E, white)" ]
 theme-headline   : [ "Ubuntu", "white", "none" ]
 theme-byline     : [ "Ubuntu", "black", "none" ]
 theme-text       : [ "Raleway", "white", "none" ]
