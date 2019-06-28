@@ -7,6 +7,19 @@
 #
 theme : template
 
+theme-background : [ "linear-gradient(to top, #F94E5E, black)" ]
+theme-headline   : [ "Ubuntu", "white", "none" ]
+theme-byline     : [ "Ubuntu", "black", "none" ]
+theme-text       : [ "Raleway", "white", "none" ]
+theme-links      : [ "#0295BB", "#C0C0C0" ]
+theme-code       : [ "Inconsolata" ]
+theme-controls   : [ "#484848" ]
+theme-margins    : [ "0", "15px" ]
+
+highlight        : ir-black
+
+
+
 #
 # Theme-Override Setting
 # Doc: https://gitpitch.com/docs/settings/custom-theme
@@ -30,7 +43,7 @@ layout : center
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "GitPitch - The Fastest Way From Idea To Presentation"
+footnote : "TGIF: Learn, share and play with Tech"
 
 #
 # Published Setting
@@ -42,6 +55,5 @@ published : true
 # Twitter Card Settings [Pro Only]
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
-title : "GitPitch In 60 Seconds"
-description : "A short tutorial introducing the power and simplicity of GitPitch, the markdown presentation service on Git."
-thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png
+title : "NewContainerTooling"
+description : "TGIF Container Tooling 2019"
