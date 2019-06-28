@@ -7,10 +7,10 @@
 #
 theme : template
 
-theme-background : [ "linear-gradient(180deg, #342C2C 80%, #F94E5E 20%)" ]
-theme-headline   : [ "Raleway", "white", "none" ]
-theme-byline     : [ "Raleway", "white", "none" ]
-theme-text       : [ "Ubuntu", "white", "none" ]
+theme-background : [ "#FFF" ]
+theme-headline   : [ "Raleway", "#5289F7", "none" ]
+theme-byline     : [ "Raleway", "#111111", "none" ]
+theme-text       : [ "Ubuntu", "#1C1C1C", "none" ]
 theme-links      : [ "#5289F7", "#5254F7" ]
 theme-code       : [ "Source Code Pro" ]
 theme-controls   : [ "#484848" ]
@@ -43,7 +43,7 @@ layout : center
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "TGIF: Learn, share and play with  new tech"
+footnote : "<a style='text-decoration: none; color: white;' href='#/12'>TGIF: Learn, share and play with  new tech</a>"
 
 #
 # Published Setting

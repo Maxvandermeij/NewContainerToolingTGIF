@@ -1,6 +1,9 @@
 @title[Goodbye docker]
 ## New container tooling
 
+@snap[south span-100]
+###### By Max van der Meij
+@snapend 
 
 ---
 @title[why?]
@@ -19,7 +22,7 @@
 ![](assets/img/security.jpg)
 @snapend
 
-@snap[south span-100 text-white]
+@snap[south span-100 h6-text-white]
 Security and seperation of duty
 Seperate tools for specific purposes
 @snapend
